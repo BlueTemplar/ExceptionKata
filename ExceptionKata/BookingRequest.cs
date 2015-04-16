@@ -32,7 +32,6 @@ namespace ExceptionKata
                 throw new ArgumentException("Invalid format for date", e);
             }
             if (parsedDate < DateTime.Now) throw new ArgumentException("date cannot be before today");
-            if (numberOfSeats == null) throw new ArgumentException("number of seats cannot be null");
             if (numberOfSeats < 1) throw new ArgumentException("number of seats must be positive");
         }
     }

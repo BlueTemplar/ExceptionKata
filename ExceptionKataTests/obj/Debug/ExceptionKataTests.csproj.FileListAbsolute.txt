@@ -1,0 +1,16 @@
+C:\Users\BrianK\Documents\Visual Studio 2012\Projects\ExceptionKata\ExceptionKataTests\obj\Debug\ExceptionKataTests.csprojResolveAssemblyReference.cache
+C:\Users\BrianK\Documents\Visual Studio 2012\Projects\ExceptionKata\ExceptionKataTests\bin\Debug\xunit.execution.desktop.dll
+C:\Users\BrianK\Documents\Visual Studio 2012\Projects\ExceptionKata\ExceptionKataTests\bin\Debug\ExceptionKataTests.dll
+C:\Users\BrianK\Documents\Visual Studio 2012\Projects\ExceptionKata\ExceptionKataTests\bin\Debug\ExceptionKataTests.pdb
+C:\Users\BrianK\Documents\Visual Studio 2012\Projects\ExceptionKata\ExceptionKataTests\bin\Debug\ExceptionKata.dll
+C:\Users\BrianK\Documents\Visual Studio 2012\Projects\ExceptionKata\ExceptionKataTests\bin\Debug\xunit.abstractions.dll
+C:\Users\BrianK\Documents\Visual Studio 2012\Projects\ExceptionKata\ExceptionKataTests\bin\Debug\xunit.assert.dll
+C:\Users\BrianK\Documents\Visual Studio 2012\Projects\ExceptionKata\ExceptionKataTests\bin\Debug\xunit.core.dll
+C:\Users\BrianK\Documents\Visual Studio 2012\Projects\ExceptionKata\ExceptionKataTests\bin\Debug\ExceptionKata.pdb
+C:\Users\BrianK\Documents\Visual Studio 2012\Projects\ExceptionKata\ExceptionKataTests\bin\Debug\xunit.abstractions.xml
+C:\Users\BrianK\Documents\Visual Studio 2012\Projects\ExceptionKata\ExceptionKataTests\bin\Debug\xunit.assert.pdb
+C:\Users\BrianK\Documents\Visual Studio 2012\Projects\ExceptionKata\ExceptionKataTests\bin\Debug\xunit.assert.xml
+C:\Users\BrianK\Documents\Visual Studio 2012\Projects\ExceptionKata\ExceptionKataTests\bin\Debug\xunit.core.pdb
+C:\Users\BrianK\Documents\Visual Studio 2012\Projects\ExceptionKata\ExceptionKataTests\bin\Debug\xunit.core.xml
+C:\Users\BrianK\Documents\Visual Studio 2012\Projects\ExceptionKata\ExceptionKataTests\obj\Debug\ExceptionKataTests.dll
+C:\Users\BrianK\Documents\Visual Studio 2012\Projects\ExceptionKata\ExceptionKataTests\obj\Debug\ExceptionKataTests.pdb

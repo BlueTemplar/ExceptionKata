@@ -1,0 +1,5 @@
+c:\users\briank\documents\visual studio 2012\Projects\ExceptionKata\ExceptionKata\obj\Debug\ExceptionKata.csprojResolveAssemblyReference.cache
+c:\users\briank\documents\visual studio 2012\Projects\ExceptionKata\ExceptionKata\bin\Debug\ExceptionKata.dll
+c:\users\briank\documents\visual studio 2012\Projects\ExceptionKata\ExceptionKata\bin\Debug\ExceptionKata.pdb
+c:\users\briank\documents\visual studio 2012\Projects\ExceptionKata\ExceptionKata\obj\Debug\ExceptionKata.dll
+c:\users\briank\documents\visual studio 2012\Projects\ExceptionKata\ExceptionKata\obj\Debug\ExceptionKata.pdb
